@@ -1,4 +1,4 @@
-package com.steph0.java_concurrency_exercices.api;
+package com.steph0.java_concurrency_exercices.presentation;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

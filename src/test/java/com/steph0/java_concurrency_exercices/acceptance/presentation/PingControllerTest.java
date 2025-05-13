@@ -1,4 +1,4 @@
-package com.steph0.java_concurrency_exercices.acceptance.api;
+package com.steph0.java_concurrency_exercices.acceptance.presentation;
 
 import com.steph0.java_concurrency_exercices.helpers.acceptance.AssertResponse;
 import org.assertj.core.api.Assertions;
